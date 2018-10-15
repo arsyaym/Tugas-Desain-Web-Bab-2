@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2018, 10:11:07 PM
+    Author     : Savage
+*/
+*{
+    font-family: "Segoe UI"
+}
+body{
+    background-image: url(4.jpg)
+}
+h1{
+    font-size: 20pt;
+}
+h2{
+    font-size: 15pt;
+}
